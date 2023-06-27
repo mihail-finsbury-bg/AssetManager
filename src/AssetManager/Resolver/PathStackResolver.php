@@ -2,7 +2,7 @@
 
 namespace AssetManager\Resolver;
 
-use Assetic\Asset\FileAsset;
+use AssetManager\Asset\FileAsset;
 use Assetic\Factory\Resource\DirectoryResource;
 use AssetManager\Exception;
 use AssetManager\Service\MimeResolver;
